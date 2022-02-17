@@ -1,3 +1,8 @@
 body {
-    background-color: aqua;
+    background-color: palevioletred;
+}
+
+#button-box {
+    margin-left: 44%;
+    margin-top: 21%;
 }
